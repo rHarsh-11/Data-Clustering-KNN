@@ -49,11 +49,11 @@ The dataset used for this project can be found in the `data/` directory. The dat
 ### Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mall-customers-knn-clustering.git
+   git clone https://github.com/rHarsh-11/Data-Clustering-KNN.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mall-customers-knn-clustering
+   cd Data-Clustering-KNN
    ```
 3. Open the Jupyter Notebook and run the cells to perform the analysis:
    ```bash
